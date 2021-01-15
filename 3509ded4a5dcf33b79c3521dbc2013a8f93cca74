@@ -33,6 +33,40 @@
       "message": "damn this code is fineeeeeee loooking ",
       "revId": "3509ded4a5dcf33b79c3521dbc2013a8f93cca74",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdb240f1_366bb97a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1018809
+      },
+      "writtenOn": "2021-01-15T19:57:33Z",
+      "side": 1,
+      "message": "Happy Birthday!",
+      "revId": "3509ded4a5dcf33b79c3521dbc2013a8f93cca74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "21fb2f63_243d5339",
+        "filename": "change.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1018809
+      },
+      "writtenOn": "2021-01-15T19:57:33Z",
+      "side": 1,
+      "message": "I agree",
+      "revId": "3509ded4a5dcf33b79c3521dbc2013a8f93cca74",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
